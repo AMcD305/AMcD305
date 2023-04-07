@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Current CyberSecurity Student at Miami Dade College
 <!--
 **AMcD305/AMcD305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
