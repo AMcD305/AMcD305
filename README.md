@@ -2,7 +2,7 @@
 
 Current CyberSecurity Major at Miami Dade College
 
-I've been interested in computers since I was around two years old. Now I decided to pursue it seriously, and hope I can make it and keep learning new thing along the way.
+I've been interested in computers since I was around two years old. Now I decided to pursue it seriously, and hope I can make it in this industry and keep learning new thing along the way.
 <!--
 **AMcD305/AMcD305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
